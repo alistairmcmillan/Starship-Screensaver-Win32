@@ -1,5 +1,7 @@
 # StarshipScreensaverWin32
 
+![Screenshot](/Screenshot.png?raw=true "Screenshot")
+
 Old C++ Win32 OpenGL screensaver. Started playing with this code in 2007 and last touched it in 2009. Cleaned it up a little in 2015. 
 
 HOWTO COMPILE
